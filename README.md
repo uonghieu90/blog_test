@@ -14,3 +14,5 @@ $ php artisan route:cache
 
 change .env file 
 change database setting
+
+dung lenh  php artisan migrate de khoi tao database
